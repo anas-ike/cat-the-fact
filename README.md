@@ -5,7 +5,7 @@ CATBOT is a bot which sends you pictures/videos of cats or a cat fact in your di
 <br>
 
 <div align=center>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=1142543497489043456&permissions=2147600384&scope=applications.commands%20bot">
+    <a href="https://discord.com/api/oauth2/authorize?client_id=1076205165587222618&permissions=2147600384&scope=applications.commands%20bot">
         <img src="https://shields.io/badge/invite_the-discord_bot-7289DA?logo=discord&style=for-the-badge">
     </a>
 </div>
@@ -26,5 +26,5 @@ CATBOT is a bot which sends you pictures/videos of cats or a cat fact in your di
 
 ## Support Server
 
-[![Server Invite](https://discordapp.com/api/guilds/1088032923443277824/embed.png?style=banner2)](https://discord.gg/aGUvpSxMz5)
+[![Server Invite](https://discordapp.com/api/guilds/1210364441774788668/embed.png?style=banner2)](https://discord.com/invite/PqVQgXTweC)
 
