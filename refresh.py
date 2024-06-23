@@ -1,7 +1,7 @@
 import requests as rq
 
 
-url = 'https://lrmn.is-a.dev/randomcats'
+url = 'https://lightsout.tehelf.tech'
 
 # Download files.json
 r = rq.get(f'{url}/files.json')
