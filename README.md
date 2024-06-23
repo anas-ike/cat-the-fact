@@ -30,7 +30,7 @@ CATBOT is a bot which sends you pictures/videos of cats or a cat fact in your di
 
 <br>
 
-## Support Server
-
-[![Server Invite](https://discordapp.com/api/guilds/1210364441774788668/embed.png?style=banner2)](https://discord.com/invite/PqVQgXTweC)
+<a href="https://discord.com/invite/PqVQgXTweC">
+  <img src="https://invidget.switchblade.xyz/PqVQgXTweC" alt="Discord Server">
+</a>
 
